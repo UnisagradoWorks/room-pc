@@ -1,5 +1,5 @@
 <div align="center">
-   <img alt="Projeto Reger" src="https://cdn.2rscms.com.br/uploads/2008/logotipos/unisagrado/png/unisagrado-png-cor.jpg" width="25%"/>
+   <img alt="Projeto Reger" src="https://unisagrado.edu.br/uploads/2008/logotipos/unisagrado/png/unisagrado-transparente-branco.png" width="22%" height: "auto" />
 </div>
 <br/>
 <div align="center">
@@ -54,5 +54,5 @@ O projeto proposto na matéria de realidade virtual é uma simulação de uma sa
 
 ## 💻 Desenvolvedores:
 
-- [@jescacelestino](https://github.com/jescacelestino)
+- [@jessicacelestino](https://github.com/jessicacelestino)
 - [@LuanR44](https://github.com/LuanR44)
