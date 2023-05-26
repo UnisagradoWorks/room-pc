@@ -26,7 +26,7 @@ O projeto proposto na matéria de realidade virtual é uma simulação de uma sa
 
 ## 🖼️ Screenshots:
 
-<img src="" alt="game img" />
+<img src=".github/vr-room.png" alt="game img"/>
 
 ## 💾 Tecnologias e Ferramentas Utilizadas:
 
