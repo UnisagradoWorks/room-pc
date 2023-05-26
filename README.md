@@ -7,7 +7,7 @@
       <img alt="Made by UnisagradoWorks" src="https://img.shields.io/badge/made%20by-UnisagradoWorks-yellow">
    </a>
    <a href="https://github.com/UnisagradoWorks/projeto-reger/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/UnisagradoWorks/vr-lab">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/UnisagradoWorks/room-pc">
    </a>
 </div>
 </br>
@@ -30,7 +30,27 @@ O projeto proposto na matéria de realidade virtual é uma simulação de uma sa
 
 ## 💾 Tecnologias e Ferramentas Utilizadas:
 
+<table>
+  <tbody>
+    <tr>
+      <td style="font-weight: bold">Unity</td>
+      <td>
+        <a href="https://unity.com" target="_blank">Download</a>.
+      </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold">Blender</td>
+      <td>
+        <a href="https://www.blender.org/" target="_blank">Download</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## ⚙️ Instalação:
+1. Clone o repositório;
+2. Abra o Unity Hub, na aba `Projects`, selecione `Open` e procure o local armazenado;
+3. Espere baixar as dependências.
 
 ## 💻 Desenvolvedores:
 
