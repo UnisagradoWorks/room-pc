@@ -44,6 +44,12 @@ O projeto proposto na matéria de realidade virtual é uma simulação de uma sa
         <a href="https://www.blender.org/" target="_blank">Download</a>.
       </td>
     </tr>
+     <tr>
+      <td style="font-weight: bold">Ícone APK</td>
+      <td>
+        <a href="https://www.flaticon.com/br/icone-gratis/vr_3655703" target="_blank">Criado por Freepik</a>.
+      </td>
+    </tr>
   </tbody>
 </table>
 
